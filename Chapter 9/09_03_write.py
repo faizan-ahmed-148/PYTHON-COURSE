@@ -1,0 +1,6 @@
+f = open('another.txt', 'w')
+f.write("faizan is a good boy and he is python expert") 
+f.close()
+# f = open('another.txt', 'a')
+# f.write("I am writing") 
+# f.close()
